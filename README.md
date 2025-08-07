@@ -47,6 +47,7 @@ To run the Jupyter notebooks, you'll need:
   - scikit-learn
   - matplotlib
   - seaborn
+  - matplotlib
 
 ## Usage
 1. Clone this repository
@@ -58,7 +59,7 @@ To run the Jupyter notebooks, you'll need:
 The project implements four different machine learning models to predict Netflix stock prices. Each model can be run independently to analyze and compare their performance in stock price prediction.
 
 ## License
-This project is for educational purposes.
+This project is for educational purposes only.
 
 ## Contact
 For any questions or suggestions, please refer to the project documentation. 
