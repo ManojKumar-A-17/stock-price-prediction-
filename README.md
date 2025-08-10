@@ -23,6 +23,7 @@ This project implements various machine learning models to predict Netflix (NFLX
 
 ## Dataset
 - File: `NFLX.csv`
+- Can use this dataset/collet from the websites,according to the columns
 - Contains historical Netflix stock data
 - Size: 73KB
 - Records: 1010
