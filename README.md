@@ -40,7 +40,7 @@ This project implements various machine learning models to predict Netflix (NFLX
 
 ## Requirements
 To run the Jupyter notebooks, you'll need:
-- Python 3.x
+- Python 3.10
 - Jupyter Notebook
 - Required Python packages:
   - pandas
